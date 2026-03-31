@@ -6,7 +6,7 @@ API_ID = int(os.environ.get("API_ID", "37138438"))
 API_HASH = os.environ.get("API_HASH", "d1b5f3a54b0c8130747432aaca542b77")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
-
+CREDIT = os.environ.get("CREDIT","𓍯𝙎𝙪𝙟𝙖𝙡⚝")
 
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "CpprivateApi")
